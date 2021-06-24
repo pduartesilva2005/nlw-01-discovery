@@ -30,7 +30,7 @@ O Ecoleta é um marketplace que ajuda pessoas a encontrarem pontos de coleta de 
 
 ``` 
   - Clonado o Repositório
-  git clone https://github.com/pedroduarte2005/nlw1-discovery.git
+  git clone https://github.com/pedroduarte2005/nlw-01-discovery.git
 
   - Instalando as Depedências
   yarn ou yarn install ou npm install
